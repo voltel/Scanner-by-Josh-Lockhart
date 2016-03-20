@@ -70,8 +70,9 @@ Don't bother looking at [CHANGELOG](CHANGELOG.md) for no additional information 
 
 ## Testing
 
-``` bash```  
-    $ composer test
+``` bash
+ $ composer test
+```
 
 ## Contributing
 
