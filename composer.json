@@ -6,7 +6,9 @@
         "volt",
         "scanner",
         "url", 
-        "scanner"
+        "modern php",
+        "Josh Lockhart",
+        "O'reilly"
     ],
     "homepage": "https://github.com/voltel/scanner",
     "license": "MIT",
@@ -23,19 +25,19 @@
     }, 
     "require": {
         "php" : ">=5.4",
-        "guzzlehttp/client" : "~6.0"
+        "guzzlehttp/guzzle" : ">=5.3"
     },
     "require-dev": {
         "phpunit/phpunit" : "4.*"
     },
     "autoload": {
         "psr-4": {
-            "volt\\scanner\\": "src/"
+            "Oreilly\\ModernPhp\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "volt\\scanner\\": "tests/"
+            "Oreilly\\ModernPhp\\": "tests/"
         }
     },
     "scripts": {
@@ -43,10 +45,5 @@
     },
     "suggest": {
         "league/csv": "CSV data manipulation made easy in PHP"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
     }
 }
