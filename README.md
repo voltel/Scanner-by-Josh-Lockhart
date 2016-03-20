@@ -28,6 +28,7 @@ Via Composer
 
 ```php```  
 ****
+```
     // an array of test links
     $a_urls = array(
         'http://www.pravda.com.ua',
@@ -61,6 +62,7 @@ Via Composer
         $c_html_url_result = "<h2>The following URLs are invalid:</h2>"
             . "<ul>" . $c_html_lis . "</ul>";
     }//endif
+```
 ****
 
 ## Change log
