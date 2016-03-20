@@ -61,6 +61,8 @@ $ composer require volt/scanner
         $c_html_url_result = "<h2>The following URLs are invalid:</h2>"
             . "<ul>" . $c_html_lis . "</ul>";
     }//endif
+    
+    echo $c_html_url_result;
 ```
 ****
 
