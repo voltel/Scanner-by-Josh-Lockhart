@@ -26,9 +26,8 @@ $ composer require volt/scanner
 
 ## Usage
 
-php 
 ****
-```
+```php
     // an array of test links
     $a_urls = array(
         'http://www.pravda.com.ua',
