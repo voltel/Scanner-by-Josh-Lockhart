@@ -14,7 +14,7 @@ It is a slightly modified example from Josh Lockhart's book __"Modern PHP" by O'
 For original code see [a related GitHub page](https://github.com/modern-php/scanner).
 You may as well look througgh [a forked version] (https://github.com/frankperez87/scanner/blob/master/src/Url/Scanner.php) for some code modifications.
 
-This component uses PSR-4 autoload and utilizes ```Oreilly\ModernPhp\``` namespace. 
+This component uses PSR-4 autoload and utilizes ```Oreilly\ModernPhp\``` namespace.  
 For class identification use ```\Oreilly\ModernPhp\Url\Scanner``` class name.
 
 ## Install
