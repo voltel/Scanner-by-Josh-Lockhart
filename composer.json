@@ -1,7 +1,7 @@
 {
-    "name": "volt/scanner",
+    "name": "volt/modern_php_scanner",
     "type": "library",
-    "description": "Scan URLs from an array and return an array of inaccessible URLs",
+    "description": "Scan URLs from an array and return an array of inaccessible URLs. An example component from Josh Lockhart's book \"Modern PHP\" (2015)",
     "keywords": [
         "volt",
         "scanner",
