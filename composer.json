@@ -42,7 +42,7 @@
         "test": "phpunit"
     },
     "suggest": {
-        "league/csv": "~6.0"
+        "league/csv": "CSV data manipulation made easy in PHP"
     },
     "extra": {
         "branch-alias": {
