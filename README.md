@@ -20,13 +20,13 @@ This component uses PSR-4 autoload and utilizes ```Oreilly\ModernPhp\Url\Scanner
 
 Via Composer
 
-``` bash```  
-    $ composer require volt/scanner
-
+``` bash 
+$ composer require volt/scanner
+``` 
 
 ## Usage
 
-```php```  
+php 
 ****
 ```
     // an array of test links
