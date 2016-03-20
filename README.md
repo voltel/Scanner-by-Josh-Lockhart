@@ -1,4 +1,4 @@
-# volt/scanner
+# volt/modern_php_scanner
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -22,7 +22,7 @@ For class identification use ```\Oreilly\ModernPhp\Url\Scanner``` class name.
 Via Composer
 
 ``` bash 
-$ composer require volt/scanner
+$ composer require volt/modern_php_scanner
 ``` 
 
 ## Usage
@@ -97,17 +97,17 @@ Bare in mind, this is just a test project. If you discover any security related 
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/volt/scanner.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/volt/modern_php_scanner.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/volt/scanner/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/volt/scanner.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/volt/scanner.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/volt/scanner.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/volt/modern_php_scanner/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/volt/modern_php_scanner.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/volt/modern_php_scanner.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/volt/modern_php_scanner.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/volt/scanner
-[link-travis]: https://travis-ci.org/volt/scanner
-[link-scrutinizer]: https://scrutinizer-ci.com/g/volt/scanner/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/volt/scanner
-[link-downloads]: https://packagist.org/packages/volt/scanner
+[link-packagist]: https://packagist.org/packages/volt/modern_php_scanner
+[link-travis]: https://travis-ci.org/volt/modern_php_scanner
+[link-scrutinizer]: https://scrutinizer-ci.com/g/volt/modern_php_scanner/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/volt/modern_php_scanner
+[link-downloads]: https://packagist.org/packages/volt/modern_php_scanner
 [link-author]: https://github.com/voltel
 [link-contributors]: ../../contributors
