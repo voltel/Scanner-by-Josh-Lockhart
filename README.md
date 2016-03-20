@@ -42,6 +42,10 @@ $ composer require volt/scanner
     $o_scanner = new \Oreilly\ModernPhp\Url\Scanner($a_urls); // instantiate the component class
     $a_invalid_urls_arrays = $o_scanner->getInvalidUrls(); // get an array with resutls of scan 
     
+    // the rest is compiling output markup in $c_html_url_result 
+    // from array of arrays ($a_invalid_urls_arrays)
+    // You may as well use print_r($a_invalid_urls_arrays);
+    
     $c_html_url_result = null;
     if (empty($a_invalid_urls_arrays)) {
         $c_html_url_result = "<h2>All provided URLs are valid</h2>";
